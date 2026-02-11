@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "地獄へ道づれ",
+  "base_artist": "Queen",
+  "createdAt": "2026-02-11T13:39:35.844237Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "地獄へ道づれ",
+      "artist": "Queen",
+      "has_synced": false,
+      "path": "select/pl_01_地獄へ道づれ_Queen.txt"
+    }
+  ]
+}
